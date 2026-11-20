@@ -53,7 +53,7 @@ More detail: [Research questions](docs/1-research-questions.md).
 
 | Piece | Status | Evidence |
 | --- | --- | --- |
-| Cyber ranges with graded missions | Built | 8 training campaigns, 127 graded missions. Design published in [cyber-range-design](https://github.com/fernandodeltaflows/cyber-range-design) |
+| Cyber ranges with graded missions | Built | 8 training campaigns, 127 graded missions. Design published in [cyber-range-design](https://github.com/fernandodeltaflows/cyber-range-design). The SOC assessments and DFIR campaigns were built with the [Cyber Range Build System](https://github.com/fernandodeltaflows/cyber-range-design#the-cyber-range-build-system) ([guided tour](https://fernandodeltaflows.github.io/cyber-range-design/build-system-tour/)) |
 | Scored analyst assessments (human baseline) | Built | Three tiers, 49 missions, 1,000 marks per tier, analysts ranked by score |
 | Network cage for an AI attacker | Built, not yet public | Proven with a 10-check escape test and 53 unit tests |
 | AI pentest assistant running inside the cage | Built, not yet public | PentestGPT, integrated and containment-tested against OWASP Juice Shop. A person runs every command |

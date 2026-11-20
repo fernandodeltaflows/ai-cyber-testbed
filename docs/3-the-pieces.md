@@ -37,7 +37,7 @@ flowchart TB
 
 - **What it is.** Training ranges where every attack step is paired with the evidence it leaves for a defender.
 - **Evidence.** 8 training campaigns with 127 graded missions, including an adversary emulation course with 67 missions against an isolated Active Directory domain. The designs are public in [cyber-range-design](https://github.com/fernandodeltaflows/cyber-range-design). Answer keys are not published.
-- **How they are built.** Each lab goes through fixed stages with a human approval at every gate, and each graded answer is taken from the running lab, not written by hand.
+- **How they are built.** The SOC assessments and DFIR campaigns were built with the [Cyber Range Build System](https://github.com/fernandodeltaflows/cyber-range-design#the-cyber-range-build-system): five fixed stages (brief, design, build, testing, release) with a human approval at every gate, and each graded answer is taken from the running lab, not written by hand. A [guided tour](https://fernandodeltaflows.github.io/cyber-range-design/build-system-tour/) walks through it with a made-up lab.
 - **Role in the testbed.** The method and the experience. The research range itself is a new build. See below.
 
 ## Scored analyst assessments (the human baseline)
