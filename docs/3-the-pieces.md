@@ -23,7 +23,7 @@ flowchart TB
     P6["Tests against an AI analyst<br/>that reads logs"]
     P5["Guardrail tests"]
   end
-  built -->|"what is built feeds what is planned"| planned
+  built --> planned
   P1 --> P3
   P2 --> P3
   P4 --> P6
