@@ -45,7 +45,7 @@ flowchart TB
 **Status: built.**
 
 - **What it is.** A three-tier assessment for security analysts, run live on a range. Each tier is a timed, scored challenge that ranks people by marks instead of pass or fail.
-- **Evidence.** 49 missions across the three tiers, 1,000 marks per tier. The hardest tier holds 28 days of activity and about 1.3 million events, with real intrusion chains hidden inside normal activity.
+- **Evidence.** 49 missions across the three tiers, 1,000 marks per tier. The hardest tier holds 28 days of activity and about 1.2 million events, with real intrusion chains hidden inside normal activity.
 - **Role in the testbed.** The scale for question 2. An AI analyst can be scored the same way as a person. Anonymised human scores can be used for research, with permission.
 
 ## Network cage
